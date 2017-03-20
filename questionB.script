@@ -1,0 +1,7 @@
+Script started on 2017年03月20日 (週一) 19時39分34秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g++ -o lab1_output lab1.cpp
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./lab1.[K_output [K
+Please input a number:22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+Script done on 2017年03月20日 (週一) 19時40分29秒
